@@ -1,0 +1,15 @@
+.mainContainer {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    flex-wrap: wrap;
+    height: 960px;
+    width: 960px;
+}
+
+.grid {
+    margin: 0px;
+    padding: 0px;
+    height: 60px;
+    width: 60px;
+}
